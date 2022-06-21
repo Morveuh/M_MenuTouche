@@ -1,7 +1,7 @@
 ### M_MenuTouche
 It's a simple key menu for your server.
 
-# Video
+# Pictures
 https://streamable.com/0rk6vl
 
 # As a reminder, I am not a developer.
