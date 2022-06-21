@@ -2,7 +2,9 @@
 It's a simple key menu for your server.
 
 # Pictures
-https://streamable.com/0rk6vl
+![1](https://user-images.githubusercontent.com/107635538/174897280-0d6266ad-e49c-459b-b57a-b09abed4a434.PNG)
+![2](https://user-images.githubusercontent.com/107635538/174897284-d62c814c-1f73-4276-9d98-43e6005eb92d.PNG)
+![3](https://user-images.githubusercontent.com/107635538/174897285-9f32a43f-5385-4222-bd31-163352623e62.PNG)
 
 # As a reminder, I am not a developer.
 Mvh#3326
