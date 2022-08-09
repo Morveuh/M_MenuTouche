@@ -1,3 +1,5 @@
+print("ZYP - https://discord.gg/yWYZVnTB4x")
+
 UIResRectangle = setmetatable({}, UIResRectangle)
 UIResRectangle.__index = UIResRectangle
 UIResRectangle.__call = function() return "Rectangle" end
